@@ -1,0 +1,43 @@
+Features:
+
+    Login System
+    Admin Panel
+    User management
+    CRUD Students, Teachers, Subjects, Class, Hostels, Stream
+    Manage Fees, Events, Timetables, attendance
+    Make announcements
+    Publish Exam Results
+    Add fees structure
+    Student’s parent details
+    Session
+    Database backup
+
+How To Run??
+
+After Starting Apache and MySQL in XAMPP, follow the following steps
+
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+
+Now Connecting Database
+
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on databases tab
+6th Step: Create database naming “fantastic_school_admin_db” and then click on import tab
+7th Step: Click on browse file and select “fantastic_school_admin_db.sql” file which is inside “database” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to URL “http://localhost/schooladmin/”
+For Admin Panel
+Final Step: Go To URL “http://localhost/schooladmin/admin/”
+Insert the username and password which is provided inside the “Readme.txt” file.
+LOGIN DETAILS ARE PROVIDED IN “Readme.txt” FILE INSIDE PROJECT FOLDER
+
+
+
+//Pratik Bhatt - 21-01-2020
+
+// #pexbht
